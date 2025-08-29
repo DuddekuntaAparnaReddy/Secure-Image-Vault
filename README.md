@@ -19,5 +19,6 @@ Built with **Python, Tkinter, Cryptography, MongoDB, and Pillow**.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Image-Encryption-Tool.git
+   git clone https://github.com/DuddekuntaAparnaReddy/Secure-Image-Vault.git
    cd Image-Encryption-Tool
+
