@@ -1,3 +1,6 @@
+Image Encryption Tool  
+_Secure your images with GUI encryption, MongoDB authentication, and email alerts._
+
 # 🔐 Image Encryption Tool
 
 A secure desktop application to encrypt and decrypt images with **user authentication**.  
@@ -21,4 +24,5 @@ Built with **Python, Tkinter, Cryptography, MongoDB, and Pillow**.
    ```bash
    git clone https://github.com/DuddekuntaAparnaReddy/Secure-Image-Vault.git
    cd Image-Encryption-Tool
+
 
