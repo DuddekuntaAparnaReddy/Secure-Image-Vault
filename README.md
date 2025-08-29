@@ -1,2 +1,23 @@
-# Secure-Image-Vault
-A Python-based Secure Image Vault with Tkinter GUI, MongoDB authentication, image encryption/decryption, and email alerts ensuring safe storage and protection of sensitive images.
+# 🔐 Image Encryption Tool
+
+A secure desktop application to encrypt and decrypt images with **user authentication**.  
+Built with **Python, Tkinter, Cryptography, MongoDB, and Pillow**.
+
+---
+
+## ✨ Features
+- User Authentication (Login & Register) with MongoDB
+- Strong password hashing (SHA-256)
+- Encrypt and Decrypt images
+- Simple & Modern Tkinter GUI
+- Secure data handling
+- Cross-platform support
+
+---
+
+## 📦 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Image-Encryption-Tool.git
+   cd Image-Encryption-Tool
